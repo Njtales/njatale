@@ -1,2 +1,2 @@
 # njtales Portfolio
-checkout [njtales](https://njtales.com/)
+checkout [njtales](https://njtales.github.io/njtales/)
