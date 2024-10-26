@@ -1,2 +1,2 @@
-# njatale Portfolio
+# njtales Portfolio
 checkout [njtales](https://njtales.com/)
