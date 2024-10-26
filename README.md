@@ -1,2 +1,2 @@
-# Photography Website
+# njatale Portfolio
 checkout [njtales](https://njtales.com/)
